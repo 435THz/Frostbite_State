@@ -1,0 +1,16 @@
+<Header>
+  <Name>Frostbite State</Name>
+  <Author>MistressNebula</Author>
+  <Description>Replaces most instances of the Freezing status with Frostbite, which is a special counterpart for Burn.</Description>
+  <Namespace>frostbite</Namespace>
+  <UUID>E9723BF0-CE8D-4193-832F-1D5774F5D69E</UUID>
+  <Version>2.0</Version>
+  <ModType>Mod</ModType>
+  <Relationships>
+    <RelatedMod>
+      <UUID>CAE98609-7A96-4CFC-B5AB-0E1D41F6A1FF</UUID>
+      <Namespace>Halcyon</Namespace>
+      <Relationship>LoadAfter</Relationship>
+    </RelatedMod>
+  </Relationships>
+</Header>

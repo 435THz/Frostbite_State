@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="MSG_DMG_BOOST_ANY_STATUS" xml:space="preserve">
+    <value>由于目标的状态，威力提高了！</value>
+  </data>
+  <data name="MSG_RECYCLE" xml:space="preserve">
+    <value>{0}的{1}被回收成了{2}</value>
+  </data>
+  <data name="MSG_SKILL_TO_ELEMENT" xml:space="preserve">
+    <value>它变成了{0}属性！</value>
+  </data>
+  <data name="SIGN_TITLE_HIT_RATE" xml:space="preserve">
+    <value>攻击机制</value>
+  </data>
+  <data name="TALK_ADVICE_FADED" xml:space="preserve">
+    <value>哦，[pause=20]被遗忘的路，[pause=20]岁月之刻-录\u266A[pause=0]\n哦，[pause=20]被遗忘的路，[pause=20]你独自留-住\u266A[br]哦，[pause=20]被遗忘的路，[pause=20]我沿此步-入\u266A[pause=0]\n不久，[pause=20] 你将要消逝，[pause=20]但我仍会记住\u266A</value>
+  </data>
+  <data name="TALK_ADVICE_MISS" xml:space="preserve">
+    <value>你的攻击能力越高，就越容易命中和闪避攻击。[br]如果对手的速度高于你，你就更难命中。[br]但请记住......[br]无论命中目标有多困难，[pause=0]你绝对不会连续失误两次。</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0000" xml:space="preserve">
+    <value>那件商品是{0}元。要买下吗？</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0001" xml:space="preserve">
+    <value>一......[pause=10]二......[pause=10]三......[pause=10]那将是{0}元！</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0002" xml:space="preserve">
+    <value>您的账单总额为{0}元。\n请确认您的购买。</value>
+  </data>
+  <data name="TALK_SHOP_PAY_SHORT_0001" xml:space="preserve">
+    <value>呃？那里不充足......</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0000" xml:space="preserve">
+    <value>那个，我花{0}元买下！您要卖吗？</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0001" xml:space="preserve">
+    <value>我可以买您的东西，[pause=10]呃，[pause=10]{0}元！[pause=30]可以吗？</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0002" xml:space="preserve">
+    <value>您将获得{0}元返还金。请确认。</value>
+  </data>
+  <data name="TALK_SHOP_SUSPECT_0000" xml:space="preserve">
+    <value>你当我傻吗？[pause=0]\n迷宫里的所有人都知道你曾经干了什么。</value>
+  </data>
+  <data name="TALK_WAIT_0181" xml:space="preserve">
+    <value>无论你去往何处，我都会与你一路。让我着重声明: 不论何处！</value>
+  </data>
+  <data name="TALK_WAIT_0182" xml:space="preserve">
+    <value>黑暗沉睡在我的内心...我有时仍能感觉到...</value>
+  </data>
+</root>

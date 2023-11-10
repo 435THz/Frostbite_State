@@ -1,0 +1,25 @@
+﻿{
+"Version": "0.7.18.2",
+"Object": {
+"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"magma_armor": {
+"Name": {
+"DefaultText": "Magma Armor",
+"LocalTexts": {
+"fr": "Armumagma",
+"de": "Magmapanzer",
+"es": "Escudo Magma",
+"it": "Magmascudo",
+"ko": "마그마의무장",
+"ja": "マグマのよろい",
+"ja-jp": "マグマのよろい",
+"zh-hans": "熔岩铠甲",
+"zh-hant": "熔岩鎧甲"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 40
+}
+}
+}

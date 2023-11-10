@@ -1,0 +1,55 @@
+﻿{
+"Version": "0.7.18.2",
+"Object": {
+"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"berry_aspear": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"UsageType": 4,
+"States": [
+{
+"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.EdibleState"
+},
+{
+"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.BerryState"
+}
+],
+"Name": {
+"DefaultText": "Aspear Berry",
+"LocalTexts": {
+"fr": "Baie Willia",
+"de": "Wilbirbeere",
+"es": "Baya Perasi",
+"pt": "Fruta Aspear",
+"it": "Baccaperina",
+"ko": "배리열매",
+"ja": "ナナシのみ",
+"ja-jp": "ナナシのみ",
+"zh-hans": "利木果",
+"zh-hant": "利木果"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"held_aspear_scarf": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"UsageType": 0,
+"States": [
+{
+"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.HeldState"
+}
+],
+"Name": {
+"DefaultText": "Aspear Scarf",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 10
+}
+}
+}

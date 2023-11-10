@@ -1,0 +1,142 @@
+﻿{
+"Version": "0.7.18.2",
+"Object": {
+"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"blizzard": {
+"Name": {
+"DefaultText": "Blizzard",
+"LocalTexts": {
+"fr": "Blizzard",
+"de": "Blizzard",
+"es": "Ventisca",
+"pt": "Nevasca",
+"it": "Bora",
+"ko": "눈보라",
+"ja": "ふぶき",
+"ja-jp": "ふぶき",
+"zh-hans": "暴风雪",
+"zh-hant": "暴風雪"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 59
+},
+"ice_beam": {
+"Name": {
+"DefaultText": "Ice Beam",
+"LocalTexts": {
+"fr": "Laser Glace",
+"de": "Eisstrahl",
+"es": "Rayo Hielo",
+"pt": "Raio Congelante",
+"it": "Geloraggio",
+"ko": "냉동빔",
+"ja": "れいとうビーム",
+"ja-jp": "れいとうビーム",
+"zh-hans": "冰冻光束",
+"zh-hant": "冰凍光束"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 58
+},
+"ice_fang": {
+"Name": {
+"DefaultText": "Ice Fang",
+"LocalTexts": {
+"fr": "Crocs Givre",
+"de": "Eiszahn",
+"es": "Colmillo Hielo",
+"it": "Gelodenti",
+"ko": "얼음엄니",
+"ja": "こおりのキバ",
+"ja-jp": "こおりのキバ",
+"zh-hans": "冰冻牙",
+"zh-hant": "冰凍牙"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 423
+},
+"ice_punch": {
+"Name": {
+"DefaultText": "Ice Punch",
+"LocalTexts": {
+"fr": "Poing-Glace",
+"de": "Eishieb",
+"es": "Puño Hielo",
+"pt": "Soco de Gelo",
+"it": "Gelopugno",
+"ko": "냉동펀치",
+"ja": "れいとうパンチ",
+"ja-jp": "れいとうパンチ",
+"zh-hans": "冰冻拳",
+"zh-hant": "冰凍拳"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 8
+},
+"powder_snow": {
+"Name": {
+"DefaultText": "Powder Snow",
+"LocalTexts": {
+"fr": "Poudreuse",
+"de": "Pulverschnee",
+"es": "Nieve Polvo",
+"it": "Polneve",
+"ko": "눈싸라기",
+"ja": "こなゆき",
+"ja-jp": "こなゆき",
+"zh-hans": "细雪",
+"zh-hant": "細雪"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 181
+},
+"secret_power": {
+"Name": {
+"DefaultText": "Secret Power",
+"LocalTexts": {
+"fr": "Force Cachée",
+"de": "Geheimpower",
+"es": "Daño Secreto",
+"it": "Forzasegreta",
+"ko": "비밀의힘",
+"ja": "ひみつのちから",
+"ja-jp": "ひみつのちから",
+"zh-hans": "秘密之力",
+"zh-hant": "秘密之力"
+}
+},
+"Released": true,
+"Comment": "No Anim\r\nsound's a bit clunky too",
+"SortOrder": 290
+},
+"tri_attack": {
+"Name": {
+"DefaultText": "Tri Attack",
+"LocalTexts": {
+"fr": "Triplattaque",
+"de": "Triplette",
+"es": "Triataque",
+"it": "Tripletta",
+"ko": "트라이어택",
+"ja": "トライアタック",
+"ja-jp": "トライアタック",
+"zh-hans": "三重攻击",
+"zh-hant": "三重攻擊"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 161
+}
+}
+}
