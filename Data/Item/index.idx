@@ -1,17 +1,18 @@
 ﻿{
-"Version": "0.7.18.2",
+"Version": "0.8.0.0",
 "Object": {
 "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
 "berry_aspear": {
 "$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 3,
 "UsageType": 4,
 "States": [
 {
-"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.EdibleState"
 },
 {
-"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.BerryState"
 }
 ],
@@ -36,10 +37,11 @@
 },
 "held_aspear_scarf": {
 "$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 14,
 "UsageType": 0,
 "States": [
 {
-"assembly": "PMDC, Version=0.7.18.2, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.HeldState"
 }
 ],
