@@ -4,7 +4,7 @@
   <Description>Replaces most instances of the Freezing status with Frostbite, which is a special counterpart for Burn.</Description>
   <Namespace>frostbite</Namespace>
   <UUID>E9723BF0-CE8D-4193-832F-1D5774F5D69E</UUID>
-  <Version>2.0</Version>
+  <Version>2.1</Version>
   <ModType>Mod</ModType>
   <Relationships>
     <RelatedMod>
