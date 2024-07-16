@@ -5,6 +5,7 @@
   <Namespace>frostbite</Namespace>
   <UUID>E9723BF0-CE8D-4193-832F-1D5774F5D69E</UUID>
   <Version>2.1</Version>
+  <GameVersion>0.8.2</GameVersion>
   <ModType>Mod</ModType>
   <Relationships>
     <RelatedMod>
