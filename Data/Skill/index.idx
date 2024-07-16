@@ -2,6 +2,22 @@
 "Version": "0.8.2.0",
 "Object": {
 "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"bitter_malice": {
+"Name": {
+"DefaultText": "Bitter Malice",
+"LocalTexts": {
+"es": "Rencor Reprimido",
+"it": "Livore",
+"ja": "うらみつらみ",
+"ja-jp": "うらみつらみ",
+"zh-hans": "冤冤相报",
+"zh-hant": "冤冤相报"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 841
+},
 "blizzard": {
 "Name": {
 "DefaultText": "Blizzard",
