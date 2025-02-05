@@ -1,0 +1,38 @@
+﻿{
+  "Version": [
+    "0.0",
+    "0.8.8.0"
+  ],
+  "Object": {
+    "Name": {
+      "LocalTexts": {
+        "ja": [
+          "はれ",
+          0,
+          0
+        ],
+        "ja-jp": [
+          "はれ",
+          0,
+          0
+        ]
+      }
+    },
+    "OnTurnStarts": {
+      "_t": "a",
+      "1": [
+        {
+          "Key": {
+            "str": [
+              0
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.RemoveStatusEvent, PMDC",
+            "StatusID": "frostbite"
+          }
+        }
+      ]
+    }
+  }
+}

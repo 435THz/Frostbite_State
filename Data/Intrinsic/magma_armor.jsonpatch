@@ -1,0 +1,28 @@
+﻿{
+  "Version": [
+    "0.0",
+    "0.8.8.0"
+  ],
+  "Object": {
+    "BeforeStatusAdds": {
+      "_t": "a",
+      "1": [
+        {
+          "Key": {
+            "str": [
+              0
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.PreventStatusCheck, PMDC",
+            "StatusID": "frostbite",
+            "Message": {
+              "Key": "MSG_MAGMA_ARMOR_FROST"
+            },
+            "Anims": []
+          }
+        }
+      ]
+    }
+  }
+}

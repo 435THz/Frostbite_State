@@ -1,0 +1,48 @@
+﻿{
+  "Version": [
+    "0.0",
+    "0.8.8.0"
+  ],
+  "Object": {
+    "Desc": {
+      "DefaultText": [
+        "@@ -68,11 +68,14 @@\n o fr\n-eez\n+ostbit\n e th\n",
+        0,
+        2
+      ]
+    },
+    "Data": {
+      "SkillStates": {
+        "_t": "a",
+        "1": {
+          "EffectChance": [
+            25,
+            33
+          ]
+        }
+      },
+      "OnHits": {
+        "_t": "a",
+        "1": {
+          "Value": {
+            "BaseEvents": {
+              "_t": "a",
+              "0": {
+                "StatusID": [
+                  "freeze",
+                  "frostbite"
+                ],
+                "TriggerMsg": {
+                  "Key": [
+                    null,
+                    ""
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

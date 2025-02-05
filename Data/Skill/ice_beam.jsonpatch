@@ -1,0 +1,43 @@
+﻿{
+  "Version": [
+    "0.0",
+    "0.8.8.0"
+  ],
+  "Object": {
+    "Desc": {
+      "DefaultText": [
+        "@@ -65,12 +65,16 @@\n lso \n-leav\n+frostbit\n e th\n@@ -85,12 +85,5 @@\n rget\n- frozen\n .\n",
+        0,
+        2
+      ]
+    },
+    "BaseCharges": [
+      9,
+      8
+    ],
+    "Data": {
+      "OnHits": {
+        "_t": "a",
+        "1": {
+          "Value": {
+            "BaseEvents": {
+              "_t": "a",
+              "0": {
+                "StatusID": [
+                  "freeze",
+                  "frostbite"
+                ],
+                "TriggerMsg": {
+                  "Key": [
+                    null,
+                    ""
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
